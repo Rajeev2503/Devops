@@ -5,3 +5,5 @@
 .viminfo
 .gitconfig
 .gitignore
+.ssh
+.bash_history
