@@ -3,3 +3,5 @@
 .bash_logout
 .profile
 .viminfo
+.gitconfig
+.gitignore
